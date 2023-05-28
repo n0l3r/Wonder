@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bbd15333e17e4824eadcc928a53819ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dominican
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d2ba92367d5fd4c489aba9c56b848527, type: 3}
+  - {fileID: 12800000, guid: dd7eb340b1ba94144bacfbfeb1e6fcb8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

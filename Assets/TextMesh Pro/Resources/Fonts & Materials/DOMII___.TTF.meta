@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92b99a89d4f0d7e4db674a1e60c1c964
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dominican Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f09642b017fe78e4d858ae5c0e7755b3, type: 3}
+  - {fileID: 12800000, guid: 8c12f66f71a53bd45ae0661531ce1a7a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

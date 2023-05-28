@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fd6bbc33aa84c054eb56ec9353e63a93
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dominican Small Caps
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b56fc735b0c0d34a8bdfa1b60b4fd56, type: 3}
+  - {fileID: 12800000, guid: 1599ea2c0ef4cdc40bc5385242737b99, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
